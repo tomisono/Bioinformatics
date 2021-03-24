@@ -1,2 +1,2 @@
 # Bioinformatics
-Bioinformatic algorithms
+Bioinformatic algorithms : Global Alignmnet
