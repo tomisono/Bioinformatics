@@ -1,3 +1,3 @@
 # Bioinformatics
-Bioinformatic algorithms : Global Alignmnet
+Bioinformatic algorithms : Global Alignmnet ||
                            De bruijn graph
